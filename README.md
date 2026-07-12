@@ -1,53 +1,117 @@
-<h1 align="center">Hi 👋, I'm Mirthun Vijay</h1>
+<div align="center">
 
-<h3 align="center">💻 ECE Student | AI Explorer | Problem Solver</h3>
+# 👋 Hey, I'm Mirthun Vijay
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ECE+Student;Learning+Artificial+Intelligence;Exploring+Google+AI+Studio;HackerRank+Learner;Always+Building+Something!" />
-</p>
+### ⚡ Electronics & Communication Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Explorer;Embedded+Systems+Enthusiast;Google+AI+Studio+Learner;Problem+Solver+on+HackerRank;Building+One+Project+at+a+Time+🚀" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Electronics & Communication Engineering Student
-- 🤖 Exploring Artificial Intelligence
-- 🧠 Learning with **Google AI Studio (Project Antigravity)**
-- 💻 Solving programming problems on HackerRank
-- 📚 Currently learning C, Python and Java
-- 🚀 Building projects one step at a time
+```yaml
+Name: Mirthun Vijay
+
+Education:
+  Electronics & Communication Engineering
+
+Currently Learning:
+  - Artificial Intelligence
+  - C Programming
+  - Python
+  - Java
+  - Embedded Systems
+
+Interests:
+  - Google AI Studio
+  - Arduino
+  - ESP32
+  - Problem Solving
+  - Open Source
+
+Current Goal:
+  Build awesome projects and improve every day.
+```
 
 ---
 
-# 💻 Languages I'm Learning
+# 💻 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,vscode" />
+
+<img src="https://skillicons.dev/icons?i=c,python,java,vscode,arduino" />
+
 </p>
 
 ---
 
-# 📚 Currently Exploring
+# 🌱 Currently Exploring
 
-- Artificial Intelligence
-- Google AI Studio
-- Prompt Engineering
-- HackerRank
-- Arduino
-- ESP32
+🧠 Artificial Intelligence
 
----
+⚡ Google AI Studio
 
-# 📫 Contact
+🤖 Embedded Systems
 
-📧 **mirthunvijay.jd1710@gmail.com**
+📡 ESP32
 
-🐙 GitHub: **github.com/mirthunvijay17**
+💻 HackerRank Challenges
+
+🚀 Project Development
 
 ---
 
-<p align="center">
+# 🎯 2026 Goals
 
-⭐ Thanks for visiting my profile ⭐
+- 🟢 Build 25+ GitHub repositories
+- 🟢 Learn AI Fundamentals
+- 🟢 Create Embedded Projects
+- 🟢 Solve 300+ coding problems
+- 🟢 Contribute to Open Source
 
-</p>
+---
+
+# 📌 Future Projects
+
+```
+📦 Lag Buster
+
+📦 SpineSense
+
+📦 AI Playground
+
+📦 Arduino Projects
+
+📦 Java Projects
+
+📦 Python Projects
+```
+
+---
+
+# 🌐 Connect
+
+📧 **Email**
+
+mirthunvijay.jd1710@gmail.com
+
+🐙 **GitHub**
+
+github.com/mirthunvijay17
+
+💻 **HackerRank**
+
+(Add your HackerRank profile link here once you create one.)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Keep learning. Keep building. Keep improving."*
+
+</div>
