@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mirthun Vijay</h1>
 
-<h3 align="center">
-⚡ ECE Student • Tech Explorer • AI Enthusiast • Creative Editor
-</h3>
+<h3 align="center">💻 ECE Student | AI Explorer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Cool+Projects;Learning+AI+%26+Cloud;IoT+Explorer;Never+Stop+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ECE+Student;Learning+Artificial+Intelligence;Exploring+Google+AI+Studio;HackerRank+Learner;Always+Building+Something!" />
 </p>
 
 ---
@@ -14,20 +12,17 @@
 
 - 🎓 Electronics & Communication Engineering Student
 - 🤖 Exploring Artificial Intelligence
-- ☁️ Learning Google Cloud
-- 📡 Interested in IoT & Embedded Systems
-- 🎬 Enjoy creating CapCut edits
-- 🌌 Fan of Antigravity-style edits and creative visuals
-- 💡 Always learning something new
+- 🧠 Learning with **Google AI Studio (Project Antigravity)**
+- 💻 Solving programming problems on HackerRank
+- 📚 Currently learning C, Python and Java
+- 🚀 Building projects one step at a time
 
 ---
 
-# 🛠 Currently Exploring
+# 💻 Languages I'm Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,python,java,vscode,arduino"/>
-
+<img src="https://skillicons.dev/icons?i=c,python,java,vscode" />
 </p>
 
 ---
@@ -36,9 +31,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -47,31 +42,19 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mirthunvijay17&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=mirthunvijay17&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📚 Currently Exploring
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mirthunvijay17&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Interests
-
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- 📡 IoT
-- 💻 Software Development
-- 🎬 CapCut Editing
-- 🌌 Antigravity Visual Effects
+- Artificial Intelligence
+- Google AI Studio
+- Prompt Engineering
+- HackerRank
+- Arduino
+- ESP32
 
 ---
 
@@ -79,8 +62,12 @@
 
 📧 **mirthunvijay.jd1710@gmail.com**
 
+🐙 GitHub: **github.com/mirthunvijay17**
+
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub Profile ⭐
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
