@@ -38,26 +38,18 @@
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
-
-<a href="https://github.com/mirthunvijay17" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mirthunvijay.jd1710@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
-</a>
-
+  <a href="https://github.com/mirthunvijay17">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mirthunvijay_jd1">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="55" />
+  </a>
+  <a href="mailto:mirthunvijay.jd1710@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
 </p>
 ---
 
