@@ -38,24 +38,27 @@
 
 ---
 
-# 🌐 Find Me
+# 🌐 Connect
 
 <p align="center">
 
-<a href="https://github.com/mirthunvijay17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/mirthunvijay17" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="55" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55" />
 </a>
 
-<a href="mailto:mirthunvijay.jd1710@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mirthunvijay.jd1710@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
 
 </p>
-
 ---
 
 <p align="center">
