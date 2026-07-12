@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mirthun Vijay</h1>
 
 <h3 align="center">
-Electronics & Communication Engineering Student • IoT • Embedded Systems • AI • Cloud Computing
+⚡ ECE Student • Tech Explorer • AI Enthusiast • Creative Editor
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ECE+Student;Learning+AI+%26+Cloud+Computing;Building+IoT+Projects;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Cool+Projects;Learning+AI+%26+Cloud;IoT+Explorer;Never+Stop+Learning+🚀"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 - 🎓 Electronics & Communication Engineering Student
-- 🌱 Currently learning **AI, Cloud Computing, Embedded Systems & IoT**
-- 💻 Learning **C, Python, Java**
-- 🔧 Interested in **Arduino, ESP32, Google Cloud**
-- 🚀 Building projects to improve every day
-- 🎯 Goal: Become a Software & Embedded Engineer
+- 🤖 Exploring Artificial Intelligence
+- ☁️ Learning Google Cloud
+- 📡 Interested in IoT & Embedded Systems
+- 🎬 Enjoy creating CapCut edits
+- 🌌 Fan of Antigravity-style edits and creative visuals
+- 💡 Always learning something new
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Currently Exploring
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=c,python,java,vscode,arduino"/>
 
 </p>
 
@@ -35,9 +36,9 @@ Electronics & Communication Engineering Student • IoT • Embedded Systems •
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -63,56 +64,23 @@ Electronics & Communication Engineering Student • IoT • Embedded Systems •
 
 ---
 
-# 📈 Contribution Graph
+# 🌱 Interests
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mirthunvijay17&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Currently Learning
-
-- Artificial Intelligence
-- Google Cloud
-- Embedded Systems
-- Internet of Things
-- Git & GitHub
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 📡 IoT
+- 💻 Software Development
+- 🎬 CapCut Editing
+- 🌌 Antigravity Visual Effects
 
 ---
 
-# 📌 Featured Projects
+# 📫 Contact
 
-⭐ Coming Soon...
-
-- Lag Buster
-- SpineSense
-- Arduino Projects
-- ESP32 Projects
-- AI Projects
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:mirthunvijay.jd1710@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mirthunvijay17">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+📧 **mirthunvijay.jd1710@gmail.com**
 
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider giving a ⭐ to my repositories!
-
+⭐ Thanks for visiting my GitHub Profile ⭐
 </p>
