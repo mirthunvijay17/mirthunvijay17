@@ -1,92 +1,73 @@
 <h1 align="center">Hi 👋, I'm Mirthun Vijay</h1>
 
-<h3 align="center">Electronics & Communication Engineering Student</h3>
+<h3 align="center">💻 ECE Student | AI Explorer | Problem Solver</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ECE+Student;Artificial+Intelligence+Explorer;Learning+C,+Python+and+Java;Google+AI+Studio+Learner;HackerRank+Practice;Building+Projects+Every+Day+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;ECE+Student;Learning+Artificial+Intelligence;Exploring+Google+AI+Studio;HackerRank+Learner;Always+Building+Something!" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Electronics & Communication Engineering Student
-
-🤖 Interested in Artificial Intelligence
-
-🧠 Exploring Google AI Studio
-
-💻 Practicing coding on HackerRank
-
-🚀 Learning through projects and experiments
-
-🌱 Currently learning C, Python and Java
+- 🎓 Electronics & Communication Engineering Student
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Learning with **Google AI Studio (Project Antigravity)**
+- 💻 Solving programming problems on HackerRank
+- 📚 Currently learning C, Python and Java
+- 🚀 Building projects one step at a time
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Languages I'm Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,java,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,vscode,arduino"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🔥 GitHub Streak
 
-- 🤖 Artificial Intelligence
-- 🧠 Google AI Studio
-- 💻 HackerRank
-- ⚡ Arduino
-- 📡 ESP32
-- 🎯 Problem Solving
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mirthunvijay17&theme=tokyonight"/>
+</p>
 
 ---
 
-# 📂 Current Focus
+# 📚 Currently Exploring
 
 - Artificial Intelligence
-- Embedded Systems
-- Internet of Things
-- Programming Practice
-- Open Source Learning
+- Google AI Studio
+- Prompt Engineering
+- HackerRank
+- Arduino
+- ESP32
 
 ---
 
-# 🎯 2026 Goals
+# 📫 Contact
 
-✅ Improve Problem Solving
+📧 **mirthunvijay.jd1710@gmail.com**
 
-✅ Build Real-world Projects
-
-✅ Learn New Technologies
-
-✅ Contribute to Open Source
+🐙 GitHub: **github.com/mirthunvijay17**
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
 
-📧 **Email**
+⭐ Thanks for visiting my profile ⭐
 
-> mirthunvijay.jd1710@gmail.com
-
-🐙 **GitHub**
-
-> https://github.com/mirthunvijay17
-
-🏆 **HackerRank**
-
-> https://www.hackerrank.com/
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile ⭐
-
-*"Every expert was once a beginner."*
-
-</div>
+</p>
