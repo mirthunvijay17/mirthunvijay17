@@ -57,12 +57,10 @@
 </a>
 </td>
 
-<td align="center" width="120">
-<a href="mailto:mirthunvijay.jd1710@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirthunvijay.jd1710@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/><br>
 <b>Gmail</b>
 </a>
-</td>
 
 </tr>
 </table>
