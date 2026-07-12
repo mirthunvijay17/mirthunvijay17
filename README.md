@@ -59,7 +59,7 @@
 
 <td align="center" width="140">
 <a href="https://www.linkedin.com/in/mirthun-vijay-undefined-187aa2413" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="50"/><br>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/><br>
 <b>LinkedIn</b>
 </a>
 </td>
