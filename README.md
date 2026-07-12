@@ -12,7 +12,7 @@
 
 - 🎓 Electronics & Communication Engineering Student
 - 🤖 Exploring Artificial Intelligence
-- 🧠 Learning with **Google AI Studio (Project Antigravity)**
+- 🧠 Learning with **Google AI Studio**
 - 💻 Solving programming problems on HackerRank
 - 📚 Currently learning C, Python and Java
 - 🚀 Building projects one step at a time
@@ -43,27 +43,30 @@
 <table align="center">
 <tr>
 
-<td align="center" width="120">
-<a href="https://github.com/mirthunvijay17">
+<td align="center" width="140">
+<a href="https://github.com/mirthunvijay17" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/><br>
 <b>GitHub</b>
 </a>
 </td>
 
-<td align="center" width="120">
-<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1">
+<td align="center" width="140">
+<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" height="50"/><br>
 <b>HackerRank</b>
 </a>
 </td>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirthunvijay.jd1710@gmail.com">
+<td align="center" width="140">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirthunvijay.jd1710@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/><br>
 <b>Gmail</b>
 </a>
+</td>
 
 </tr>
 </table>
+
 ---
 
 <p align="center">
