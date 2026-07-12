@@ -27,26 +27,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mirthunvijay17&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirthunvijay17&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mirthunvijay17&theme=tokyonight"/>
-</p>
-
----
-
 # 📚 Currently Exploring
 
 - Artificial Intelligence
@@ -58,11 +38,23 @@
 
 ---
 
-# 📫 Contact
+# 🌐 Find Me
 
-📧 **mirthunvijay.jd1710@gmail.com**
+<p align="center">
 
-🐙 GitHub: **github.com/mirthunvijay17**
+<a href="https://github.com/mirthunvijay17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/mirthunvijay_jd1">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:mirthunvijay.jd1710@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
